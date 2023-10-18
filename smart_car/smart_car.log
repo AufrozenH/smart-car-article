@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.17)  11 OCT 2023 20:34
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.17)  18 OCT 2023 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -602,13 +602,8 @@ Package fontspec Info: Font family 'KaiTi(0)' created for font 'KaiTi' with
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 47.
 
-File: image/system.png Graphic file (type bmp)
-<image/system.png>
-
-Overfull \hbox (22.84163pt too wide) in paragraph at lines 67--68
- [] 
- []
-
+File: image/my_system.png Graphic file (type bmp)
+<image/my_system.png>
 File: image/twocar_system.png Graphic file (type bmp)
 <image/twocar_system.png>
 [1
@@ -705,9 +700,9 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 9913 strings out of 478630
- 258082 string characters out of 5847730
- 1880012 words of memory out of 5000000
+ 9914 strings out of 478630
+ 258110 string characters out of 5847730
+ 1878012 words of memory out of 5000000
  29898 multiletter control sequences out of 15000+600000
  515811 words of font info for 76 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
