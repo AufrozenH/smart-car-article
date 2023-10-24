@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.17)  18 OCT 2023 18:25
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.17)  24 OCT 2023 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -602,8 +602,8 @@ Package fontspec Info: Font family 'KaiTi(0)' created for font 'KaiTi' with
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 47.
 
-File: image/my_system.png Graphic file (type bmp)
-<image/my_system.png>
+File: image/mysystem.png Graphic file (type bmp)
+<image/mysystem.png>
 File: image/twocar_system.png Graphic file (type bmp)
 <image/twocar_system.png>
 [1
@@ -642,6 +642,11 @@ File: image/驱动板电路.jpg Graphic file (type bmp)
 [3]
 File: image/开始.png Graphic file (type bmp)
 <image/开始.png>
+
+Overfull \hbox (5.75243pt too wide) in paragraph at lines 146--147
+ [] 
+ []
+
 File: image/basic_road.png Graphic file (type bmp)
 <image/basic_road.png>
 File: image/basic_edge.jpg Graphic file (type bmp)
@@ -650,7 +655,7 @@ File: image/crossroad.jpg Graphic file (type bmp)
 <image/crossroad.jpg>
 File: image/round_road.jpg Graphic file (type bmp)
 <image/round_road.jpg>
- [4]
+[4]
 File: image/garage.jpg Graphic file (type bmp)
 <image/garage.jpg>
 File: image/breakroad.jpg Graphic file (type bmp)
@@ -662,7 +667,7 @@ File: image/roadblock.jpg Graphic file (type bmp)
 File: image/PID.jpg Graphic file (type bmp)
 <image/PID.jpg>
 
-Overfull \hbox (24.30203pt too wide) in paragraph at lines 205--206
+Overfull \hbox (36.61877pt too wide) in paragraph at lines 205--206
  [] 
  []
 
@@ -700,8 +705,8 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 9914 strings out of 478630
- 258110 string characters out of 5847730
+ 9913 strings out of 478630
+ 258098 string characters out of 5847730
  1878012 words of memory out of 5000000
  29898 multiletter control sequences out of 15000+600000
  515811 words of font info for 76 fonts, out of 8000000 for 9000

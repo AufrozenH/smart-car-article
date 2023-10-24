@@ -64,7 +64,7 @@
 		该系统通过MCU将多个模块协同工作，实现高稳定性和高速度的双车协同运作。
 		
 		\begin{center}
-			\centering{\includegraphics[scale=0.4]{image/my_system.png}}
+			\centering{\includegraphics[scale=0.375]{image/mysystem.png}}
 			\caption{系统总体方案框图}
 		\end{center}
 		
@@ -143,7 +143,7 @@
 		\section{系统软件设计}
 		系统软件设计部分由无线充电、道路信息采集与处理、舵机转向控制、电机速度控制和双车协同交互五大模块组成。系统程序流程图如图10所示，系统对各模块初始化后开始对后车进行无线充电；接收到充电完成的信号后进行正常的道路信息采集与处理，结合舵机转向控制和电机驱动控制，智能车队稳定、有序而安全的行驶在道路中央；在识别到车库元素后，前车停在车库附近，后车停入车库，系统结束运行。	
 			\begin{center}
-				\centering{\includegraphics[scale=0.35]{image/开始.png}}
+				\centering{\includegraphics[scale=0.185]{image/开始.png}}
 				\caption{系统程序流程图}		
 			\end{center}				
 		\subsection{道路信息采集与处理}
@@ -202,7 +202,7 @@
 		舵机是一个位置随动系统，由舵盘、减速齿轮组、位置反馈电位计、直流电机和控制电路组成。通过内部位置反馈，使舵盘输出转角正比于输入的控制信号。在负载小于其最大输出力矩的情况下，舵机的输出转角正比于输入信号的脉冲宽度。舵机控制是控制算法中最重要的方面之一，本系统舵机的控制采取传统的 PID 控制。基于偏差的比例(Proportlonal)、积分(Integral)和微分(Derivative)的 控制器简称为PID控制器。其是工业过程控制中最常见的一种过程控制器。由于PID 控制器算法简一单、鲁一棒性强，因而被广泛应用于化工、冶金、机械、热工和轻工等工业过程控制系统中\textsuperscript{\cite{ref7}}。常规PID控制系统原理图如19所示。
 		
 		\begin{center}
-			\centering{\includegraphics[scale=0.235]{image/PID.jpg}}
+			\centering{\includegraphics[scale=0.245]{image/PID.jpg}}
 			\caption{常规PID控制系统原理图}		
 		\end{center}
 
