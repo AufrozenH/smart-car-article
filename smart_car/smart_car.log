@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.17)  24 OCT 2023 16:31
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.17)  25 OCT 2023 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,40 +613,30 @@ File: image/mcu.jpg Graphic file (type bmp)
 <image/mcu.jpg>
 File: image/power_source.jpg Graphic file (type bmp)
 <image/power_source.jpg>
-
-Overfull \hbox (16.14531pt too wide) in paragraph at lines 95--96
- [] 
- []
-
 File: image/multi_interface.jpg Graphic file (type bmp)
 <image/multi_interface.jpg>
-[2]
+ [2]
 File: image/电磁运放电路.jpg Graphic file (type bmp)
 <image/电磁运放电路.jpg>
 File: image/发射端电路.jpg Graphic file (type bmp)
 <image/发射端电路.jpg>
-
-Overfull \hbox (17.15623pt too wide) in paragraph at lines 124--125
- [] 
- []
-
 File: image/接收端电路.jpg Graphic file (type bmp)
 <image/接收端电路.jpg>
 
-Overfull \hbox (20.76686pt too wide) in paragraph at lines 130--131
+Overfull \hbox (20.76686pt too wide) in paragraph at lines 115--116
  [] 
  []
 
 File: image/驱动板电路.jpg Graphic file (type bmp)
 <image/驱动板电路.jpg>
-[3]
 File: image/开始.png Graphic file (type bmp)
 <image/开始.png>
 
-Overfull \hbox (5.75243pt too wide) in paragraph at lines 146--147
+Overfull \hbox (5.75243pt too wide) in paragraph at lines 131--132
  [] 
  []
 
+[3]
 File: image/basic_road.png Graphic file (type bmp)
 <image/basic_road.png>
 File: image/basic_edge.jpg Graphic file (type bmp)
@@ -655,47 +645,36 @@ File: image/crossroad.jpg Graphic file (type bmp)
 <image/crossroad.jpg>
 File: image/round_road.jpg Graphic file (type bmp)
 <image/round_road.jpg>
-[4]
 File: image/garage.jpg Graphic file (type bmp)
 <image/garage.jpg>
 File: image/breakroad.jpg Graphic file (type bmp)
 <image/breakroad.jpg>
 File: image/ramp.jpg Graphic file (type bmp)
 <image/ramp.jpg>
+ [4]
 File: image/roadblock.jpg Graphic file (type bmp)
 <image/roadblock.jpg>
 File: image/PID.jpg Graphic file (type bmp)
 <image/PID.jpg>
 
-Overfull \hbox (36.61877pt too wide) in paragraph at lines 205--206
+Overfull \hbox (5.81752pt too wide) in paragraph at lines 190--191
  [] 
  []
 
 File: image/Akman.png Graphic file (type bmp)
 <image/Akman.png>
-[5]
-Overfull \hbox (0.11642pt too wide) detected at line 243
+
+Overfull \hbox (0.11642pt too wide) detected at line 228
 []
  []
 
+[5]
 File: image/actual_compete.png Graphic file (type bmp)
 <image/actual_compete.png>
-[6]
-Underfull \hbox (badness 5519) in paragraph at lines 297--298
+ [6]
+Underfull \hbox (badness 5519) in paragraph at lines 282--283
 \TU/SimSun(0)/m/n/10.53937 互 补 双 极 仪 表 放 大 器 的 研 究 与 设 计 \TU/lmr/m/n/10.53937 [
 D]. \TU/SimSun(0)/m/n/10.53937 重 庆 大
- []
-
-
-Underfull \hbox (badness 5504) in paragraph at lines 305--306
-[]\TU/SimSun(0)/m/n/10.53937 周 寅 飞\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.5
-3937 张 立 华\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 贾 帅 东 等\TU/lmr/m/n/
-10.53937 . \TU/SimSun(0)/m/n/10.53937 最 大 可 航 窗 口 序 列
- []
-
-
-Underfull \hbox (badness 6658) in paragraph at lines 305--306
-\TU/SimSun(0)/m/n/10.53937 约 束 贝 塞 尔 曲 线 的 无 人 船 自 主 航 行 航 线 规 划 方 法
  []
 
 [7] (./smart_car.aux)
@@ -705,12 +684,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 9913 strings out of 478630
- 258098 string characters out of 5847730
+ 9880 strings out of 478630
+ 255887 string characters out of 5847730
  1878012 words of memory out of 5000000
- 29898 multiletter control sequences out of 15000+600000
+ 29865 multiletter control sequences out of 15000+600000
  515811 words of font info for 76 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 89i,15n,97p,551b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,15n,97p,549b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on smart_car.pdf (7 pages).
